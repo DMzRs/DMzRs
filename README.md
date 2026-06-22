@@ -19,14 +19,7 @@
 
 ---
 
-## 🌐 Connect with Me
 
-<p align="left">
-<a href="https://fb.com/dmrashidpferrer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-<a href="https://instagram.com/dmrashidpferrer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-</p>
-
----
 
 ## ⚡ Languages & Tools
 
@@ -53,22 +46,17 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=dmzrs&show_icons=true&locale=en&theme=vision-friendly-dark&hide_border=true&bg_color=0d1117&border_radius=10" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=dmzrs&show_icons=true&locale=en&theme=default&hide_border=true&border_radius=10" />
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dmzrs&show_icons=true&locale=en&theme=vision-friendly-dark&hide_border=true&bg_color=0d1117&border_radius=10" height="180em" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=dmzrs&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0d1117&border_radius=10" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=dmzrs&show_icons=true&locale=en&layout=compact&theme=default&hide_border=true&border_radius=10" />
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=dmzrs&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0d1117&border_radius=10" height="180em" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=dmzrs&theme=vision-friendly-dark&hide_border=true&background=0d1117&border_radius=10" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=dmzrs&theme=default&hide_border=true&border_radius=10" />
+    <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=dmzrs&theme=vision-friendly-dark&hide_border=true&background=0d1117&border_radius=10" width="70%" />
   </picture>
 </div>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=dmzrs&theme=vision-friendly-dark&hide_border=true&background=0d1117&border_radius=10" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=dmzrs&theme=default&hide_border=true&border_radius=10" />
-    <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=dmzrs&theme=vision-friendly-dark&hide_border=true&background=0d1117&border_radius=10" width="70%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=dmzrs&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0d1117&border_radius=10" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=dmzrs&show_icons=true&locale=en&layout=compact&theme=default&hide_border=true&border_radius=10" />
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=dmzrs&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0d1117&border_radius=10" height="180em" />
   </picture>
 </div>
 
